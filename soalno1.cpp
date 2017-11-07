@@ -8,4 +8,10 @@ int main(){
 	
 	cout <<"masukan nilai x:"; cin >>x;
 	cout <<"masukan nilai y:"; cin >>y;
+	
+	hasil=x-y;
+	if(hasil<0)
+	cout << hasil*-1;
+	else
+	cout << hasil;
 }
