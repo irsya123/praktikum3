@@ -9,5 +9,6 @@ int main(){
 	int jkt;
 	int gt;
 	int gb;
-
+	cout <<"Masukan jam kerja anda:"; cin >> jk;
+	cout <<"Masukan gaji anda:"; cin >> gpj;
 }
